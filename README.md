@@ -1,2 +1,3 @@
-# Real_Time_Creativity
-The emerging trend of social messaging applications along with time-constrained jobs, leads to requirement of improving the messaging environment such that it would become more expressive. Track the real-time drawn creativity of user over any social messaging platform to encourage less typing and more expressive theme.Recognize the objects/emojis saved as a result of tracking in such a way that user need not search for it in the keyboard.
+# Real Time Creativity
+
+The goal of current project is to track the real time creativity of user i.e. user draws a picture of object using his/her finger point and to recognize the object/emojis saved as a result of tracking using deep learning.
