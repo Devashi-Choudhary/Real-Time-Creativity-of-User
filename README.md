@@ -60,7 +60,10 @@ The default value of model is `mods.h5` which is trained on 10 objects as mentin
 
 3. Real Time Creativity of User
 
+![video](https://github.com/Devashi-Choudhary/Real_Time_Creativity/blob/master/Results/Real%20Time%20Creativity.mp4)
+
 # Contributors
 
 [Meet Shah](https://github.com/mit41196)
-[Neha Goyal](https://github.com/Neha-Goyal)
+
+[Neha Goyal](https://github.com/Neha-16)
