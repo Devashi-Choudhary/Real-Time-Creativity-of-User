@@ -39,7 +39,7 @@ The above command will load the data from the `/Dataset` folder and store the fe
 6. Now you need to have the data, use the webcam to get what you have drawn and recognize it using the trained model. Open terminal type the following command:
 > `python Finger_Tracking_Testing.py --model <your trained model>` 
 
-the default value of model is `mod.h5` which is trained on 10 objects as mentined above. You can run above command for reference. When you are training your model for objects which are not mentioned above then you need to make following changes : 
+The default value of model is `mods.h5` which is trained on 10 objects as mentined above. You can run above command for reference. When you are training your model for objects which are not mentioned above then you need to make following changes : 
 
 1. Need to download the related object image and place it inside `/data` folder.
 2. Make change in `class_dict` variable of `Finger_Tracking_Testing.py` according to object.
@@ -58,3 +58,9 @@ the default value of model is `mod.h5` which is trained on 10 objects as mentine
 
 ![predicted](https://github.com/Devashi-Choudhary/Real_Time_Creativity/blob/master/Results/output.JPG)
 
+3. Real Time Creativity of User
+
+# Contributors
+
+[Meet Shah](https://github.com/mit41196)
+[Neha Goyal](https://github.com/Neha-Goyal)
