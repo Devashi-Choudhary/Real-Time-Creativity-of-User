@@ -76,3 +76,5 @@ The default value of model is `mods.h5` which is trained on 10 objects as mentin
 # References 
 
 1. [Finger Detection and Tracking](https://github.com/amarlearning/Finger-Detection-and-Tracking)
+
+2. [Dataset](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/numpy_bitmap)
